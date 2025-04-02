@@ -46,147 +46,143 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Applying_functions.executor": "Run",
-    "Python.Grouping_and_Aggregating.executor": "Run",
-    "Python.Task1.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task3.executor": "Run",
-    "Python.Task4.executor": "Run",
-    "Python.Task5.executor": "Run",
-    "Python.Tuple1.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.bank.executor": "Run",
-    "Python.bonus.executor": "Run",
-    "Python.boolean2.executor": "Run",
-    "Python.boolean3.executor": "Run",
-    "Python.boolean4.executor": "Run",
-    "Python.boolean5.executor": "Run",
-    "Python.boolean6.executor": "Run",
-    "Python.boolean7.executor": "Run",
-    "Python.boolean8.executor": "Run",
-    "Python.demo.executor": "Run",
-    "Python.dict1.executor": "Run",
-    "Python.dict10.executor": "Run",
-    "Python.dict11.executor": "Run",
-    "Python.dict3.executor": "Run",
-    "Python.dict4.executor": "Run",
-    "Python.dict6.executor": "Run",
-    "Python.dict7.executor": "Run",
-    "Python.dict8.executor": "Run",
-    "Python.dict9.executor": "Run",
-    "Python.factors.executor": "Run",
-    "Python.farm.executor": "Run",
-    "Python.image_manipulatuion.executor": "Run",
-    "Python.invest.executor": "Run",
-    "Python.learn.executor": "Run",
-    "Python.list1.executor": "Run",
-    "Python.list10.executor": "Run",
-    "Python.list11.executor": "Run",
-    "Python.list12.executor": "Run",
-    "Python.list13.executor": "Run",
-    "Python.list14.executor": "Run",
-    "Python.list15.executor": "Run",
-    "Python.list16.executor": "Run",
-    "Python.list17.executor": "Run",
-    "Python.list18.executor": "Run",
-    "Python.list19.executor": "Run",
-    "Python.list2.executor": "Run",
-    "Python.list20.executor": "Run",
-    "Python.list3.executor": "Run",
-    "Python.list4.executor": "Run",
-    "Python.list5.executor": "Run",
-    "Python.list6.executor": "Run",
-    "Python.list8.executor": "Run",
-    "Python.list9.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.marging_joining.executor": "Run",
-    "Python.numbers1.executor": "Run",
-    "Python.numbers2.executor": "Run",
-    "Python.numbers3.executor": "Run",
-    "Python.numbers4.executor": "Run",
-    "Python.numbers6.executor": "Run",
-    "Python.numbers7.executor": "Run",
-    "Python.numeric.executor": "Run",
-    "Python.set10.executor": "Run",
-    "Python.set12.executor": "Run",
-    "Python.set14.executor": "Run",
-    "Python.set16.executor": "Run",
-    "Python.set18.executor": "Run",
-    "Python.set19.executor": "Run",
-    "Python.set20.executor": "Run",
-    "Python.set4.executor": "Run",
-    "Python.set5.executor": "Run",
-    "Python.set6.executor": "Run",
-    "Python.set9.executor": "Run",
-    "Python.string.executor": "Run",
-    "Python.string1.executor": "Run",
-    "Python.string10.executor": "Run",
-    "Python.string11.executor": "Run",
-    "Python.string12.executor": "Run",
-    "Python.string13.executor": "Run",
-    "Python.string14.executor": "Run",
-    "Python.string15.executor": "Run",
-    "Python.string16.executor": "Run",
-    "Python.string17.executor": "Run",
-    "Python.string18.executor": "Run",
-    "Python.string2.executor": "Run",
-    "Python.string3.executor": "Run",
-    "Python.string4.executor": "Run",
-    "Python.string5.executor": "Run",
-    "Python.string6.executor": "Run",
-    "Python.string7.executor": "Run",
-    "Python.string8.executor": "Run",
-    "Python.string9.executor": "Run",
-    "Python.task1.executor": "Run",
-    "Python.task10.executor": "Run",
-    "Python.task11.executor": "Run",
-    "Python.task12.executor": "Run",
-    "Python.task13.executor": "Run",
-    "Python.task14.executor": "Run",
-    "Python.task15.executor": "Run",
-    "Python.task2.executor": "Run",
-    "Python.task3.executor": "Run",
-    "Python.task4.executor": "Run",
-    "Python.task5.executor": "Run",
-    "Python.task6.executor": "Run",
-    "Python.task7.executor": "Run",
-    "Python.task8.executor": "Run",
-    "Python.task9.executor": "Run",
-    "Python.temperature.executor": "Run",
-    "Python.tuple10.executor": "Run",
-    "Python.tuple11.executor": "Run",
-    "Python.tuple12.executor": "Run",
-    "Python.tuple13.executor": "Run",
-    "Python.tuple15.executor": "Run",
-    "Python.tuple16.executor": "Run",
-    "Python.tuple17.executor": "Run",
-    "Python.tuple19.executor": "Run",
-    "Python.tuple2.executor": "Run",
-    "Python.tuple20.executor": "Run",
-    "Python.tuple4.executor": "Run",
-    "Python.tuple5.executor": "Run",
-    "Python.tuple6.executor": "Run",
-    "Python.tuple7.executor": "Run",
-    "Python.tuple8.executor": "Run",
-    "Python.tuple9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/python-homeworks",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.farm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image_manipulatuion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.invest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numeric.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temperature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python-homeworks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\python-homeworks\lesson-17\homework" />
       <recent name="D:\python-homeworks\lesson-16\homework" />
       <recent name="D:\python-homeworks\lesson-14" />
       <recent name="D:\python-homeworks\lesson-6\homework" />
@@ -386,7 +382,7 @@
       <workItem from="1743570511373" duration="330000" />
       <workItem from="1743612557975" duration="110000" />
       <workItem from="1743612686343" duration="446000" />
-      <workItem from="1743613157591" duration="9122000" />
+      <workItem from="1743613157591" duration="5283000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 2 homeworks">
       <option name="closed" value="true" />
@@ -540,39 +536,7 @@
       <option name="project" value="LOCAL" />
       <updated>1743613718777</updated>
     </task>
-    <task id="LOCAL-00020" summary="homework 16">
-      <option name="closed" value="true" />
-      <created>1743619333703</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1743619333703</updated>
-    </task>
-    <task id="LOCAL-00021" summary="homework 16">
-      <option name="closed" value="true" />
-      <created>1743619536611</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1743619536611</updated>
-    </task>
-    <task id="LOCAL-00022" summary="homework 16">
-      <option name="closed" value="true" />
-      <created>1743619756154</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1743619756154</updated>
-    </task>
-    <task id="LOCAL-00023" summary="homework 16">
-      <option name="closed" value="true" />
-      <created>1743619968956</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1743619968956</updated>
-    </task>
-    <option name="localTasksCounter" value="24" />
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -682,18 +646,15 @@
     <SUITE FILE_PATH="coverage/python_homeworks$list14.coverage" NAME="list14 Coverage Results" MODIFIED="1739268628037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$set20.coverage" NAME="set20 Coverage Results" MODIFIED="1739360521020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$task7.coverage" NAME="task7 Coverage Results" MODIFIED="1743613689142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-15/homework" />
-    <SUITE FILE_PATH="coverage/python_homeworks$Applying_functions.coverage" NAME="Applying_functions Coverage Results" MODIFIED="1743625307167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-17/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$string14.coverage" NAME="string14 Coverage Results" MODIFIED="1738936443347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-2/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$dict4.coverage" NAME="dict4 Coverage Results" MODIFIED="1739384486889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$set14.coverage" NAME="set14 Coverage Results" MODIFIED="1739359749615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$list11.coverage" NAME="list11 Coverage Results" MODIFIED="1739249948247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$tuple12.coverage" NAME="tuple12 Coverage Results" MODIFIED="1739353814849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$list9.coverage" NAME="list9 Coverage Results" MODIFIED="1739249746924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
-    <SUITE FILE_PATH="coverage/python_homeworks$Grouping_and_Aggregating.coverage" NAME="Grouping_and_Aggregating Coverage Results" MODIFIED="1743625147039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-17/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$dict9.coverage" NAME="dict9 Coverage Results" MODIFIED="1739385741349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$tuple4.coverage" NAME="tuple4 Coverage Results" MODIFIED="1739353222892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$numbers3.coverage" NAME="numbers3 Coverage Results" MODIFIED="1738871406613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-2/homework" />
-    <SUITE FILE_PATH="coverage/python_homeworks$marging_joining.coverage" NAME="marging_joining Coverage Results" MODIFIED="1743625059865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-17/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$tuple9.coverage" NAME="tuple9 Coverage Results" MODIFIED="1739353503618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$set19.coverage" NAME="set19 Coverage Results" MODIFIED="1739360402601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-3/homework" />
     <SUITE FILE_PATH="coverage/python_homeworks$numbers7.coverage" NAME="numbers7 Coverage Results" MODIFIED="1738871722886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-2/homework" />

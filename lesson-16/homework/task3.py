@@ -21,14 +21,12 @@ print(f"Minimum age: {min_age}")
 print(f"Maximum age: {max_age}")
 print(f"Sum of ages: {sum_age}")
 
-
 movie_df = pd.read_csv('movie.csv')
 director_likes = movie_df.groupby('director_name')['director_facebook_likes'].sum()
 top_director = director_likes.idxmax()
 top_director_likes = director_likes.max()
 
 print(f"Director with the highest total Facebook likes: {top_director} ({top_director_likes} likes)")
-
 
 longest_movies = movie_df.nlargest(5, 'duration')[['movie_title', 'duration', 'director_name']]
 print("5 longest movies and their directors:\n", longest_movies)
